@@ -21,13 +21,9 @@ Start by understanding the ubiquitous testing practices that are the foundation 
 
 <br/>
 
-## 🚀 We have an [official Node.js starter - Practica.js](https://github.com/practicajs/practica). Use it to generate a new solution skeleton with testing baked in, Or just it to learn by testing code examples
+### Written By Yoni Goldberg - A JavaScript & Node.js consultant
 
-### Written By Yoni Goldberg
-
-- A JavaScript & Node.js consultant
-- 📗 [Testing Node.js & JavaScript From A To Z](https://www.testjavascript.com) - My comprehensive online course with more than [7 hours of video](https://www.testjavascript.com)
-- [Follow me on Twitter](https://twitter.com/goldbergyoni/)
+### 👨‍🏫 Exciting news: I've just released my super-comprehensive testing course after two years of recording and editing. [Less than 48 hours left for the 🎁 special launch deal](https://testjavascript.com/)
 
 <br/>
 
